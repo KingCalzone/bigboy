@@ -4,9 +4,9 @@
 > [!NOTE]
 > What the tool looks like:
 
-![Tool](https://cdn.discordapp.com/attachments/951248942413250653/1263098778290880522/8aBAwLQWKX.png?ex=6698ffe7&is=6697ae67&hm=d671ddfeab6e3b461f3b1581d6a175db705846edd2538b3832fc88179c03d0c0&)
+### [Video Of The Tool (CLICK ME)](https://cdn.discordapp.com/attachments/951248942413250653/1263101655033974846/tooool.mp4?ex=66990295&is=6697b115&hm=47cdbdf1286d6ac5ad55708ec7295a36d08637d61f3db0db5a512b77d60dd2de&)
 
-Video: https://cdn.discordapp.com/attachments/951248942413250653/1263101655033974846/tooool.mp4?ex=66990295&is=6697b115&hm=47cdbdf1286d6ac5ad55708ec7295a36d08637d61f3db0db5a512b77d60dd2de&)
+![Tool](https://cdn.discordapp.com/attachments/951248942413250653/1263098778290880522/8aBAwLQWKX.png?ex=6698ffe7&is=6697ae67&hm=d671ddfeab6e3b461f3b1581d6a175db705846edd2538b3832fc88179c03d0c0&)
 
 ![Battlefield](https://cdn.discordapp.com/attachments/951248942413250653/1263098619977007196/gwyUJHlMK0.png?ex=6698ffc2&is=6697ae42&hm=c991af22cb71d4e3ad9decd88c406b8634ad43e2f6248edc23dc7cde68de7d81&)
 ![BO1](https://cdn.discordapp.com/attachments/951248942413250653/1263098630672486462/Hn2e6DsZfJ.png?ex=6698ffc4&is=6697ae44&hm=384b10c0ae0bba6deef4fa223899059cc57956c98ae255af5d7aded0208c0b5f&)
