@@ -85,8 +85,6 @@ namespace bigboy
         string path = Environment.CurrentDirectory + "\\xexs\\";
         private void DLXEXButton(object sender, EventArgs e)
         {
-			/*string text = this.XEXLoader.SelectedItem.ToString();
-			this.yeet = text;*/
 			if (this.XEXLoader.SelectedItem.ToString() == "ADVANCED WARFARE ->")
 			{
 				WebClient aw = new WebClient();
@@ -221,8 +219,6 @@ namespace bigboy
 		string path2 = Environment.CurrentDirectory + "\\extras\\";
 		private void button7_Click(object sender, EventArgs e)
         {
-			string text = this.ExtrasDL.SelectedItem.ToString();
-			this.extras = text;
 			if (this.XEXLoader.SelectedItem.ToString() == "Avatar Items")
 			{
 				Process.Start("https://1fichier.com/?0co2avpps9w3sxghny5u");
