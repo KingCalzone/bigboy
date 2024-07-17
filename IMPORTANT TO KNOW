@@ -1,0 +1,5 @@
+So, in 'Connected.cs', comment out "Security.Processes.pulse();" or Notepad will close the tool, same as most dumpers/cracking tools. Also "startRPC();" if you dont want `Playing Slut Slayer` on your Discord profile 😂.
+
+Again, this tool mozt likely will crash your testkit/devkit/xdkbuild console, it was developed on a regular rgh and should be used as a tool for one, if you want to convert it to work with xdk, you will need to remove all console information checks/reads, change ini reader to look for "rgloader.ini" & some other things i definitely forget.
+
+I am not here to help with xdk to be honest, maybe one day i'll release my mini xdk multi-purpose, but i doubt it.
