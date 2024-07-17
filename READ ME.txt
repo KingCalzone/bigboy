@@ -1,0 +1,39 @@
+BIGBOY: My Final RGH Tool - Created by KingCalzone as a learning project for xbox 360. [ @paypal.me/KingCalzone - For generous people ] 
+
+# Included/worked on games:
+Battlefield, BO1, BO2, COD4, MW2 & MW3 + Trainers and Tools 
+
+# Forms Included:
+The Calzone Bay (Game/DLC Downloader/Mod Menu Downloader), 
+TrainerHUB (Find Trainers For Games), 
+XPGameSaves (Self Explanatory), 
+Discord Servers (Handy Links), 
+Console Commander (WIP...), 
+Above Mentioned Games (Mod Forms), 
+Offline/Disconnected From Console Mode (Way Of Loading Tool If No JRPC Detected)
+
+# Toolstrip conents:
+				[RGH]
+BigBoy - Connect to console, restart tool and close tool.
+Options - Reboot options, Gold/MSP spoof.
+Tools - Check xbl connection, XUID grabber/spoofer, XbWatson, PeekPoker.
+Game Stuff - N/A.
+
+				[INTERNET]
+Tools - IP Lookup, DNS Lookup, free vpn, code/ppc conversion.
+Music - Spotify, Soundcloud.
+
+				[OTHER]
+Extras - Advertise A+ via RPC, AI search/request, rpc, Youtube.
+Customisation - Themes (Light, Dark, Gray, Blue, Green, Red, Orange, Yellow, Purple, Original).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Imma start off by saying, i do not care about this community like i used to, i burnt myself out on a path to find some things which were just too advanced for me to figure out, this tool was a major learning project for many reasons.
+
+Games were not finished, i have stolen and updated or just straight yoinked lots of things and i dont feel bad about it in the slightest because these people actively sold shit that's not theirs, well we won't be selling it.
+
+If you like the tool and would like to further develop, feel free, just dont skid your name onto it and claim it as yours since you didnt make it, thanks.
+
+If you'd like to get in contact with me, my discord is: kingcalzone - you may also find me in the r/MW2, A+ Lobbies or the xbGuard Discord server.
+
