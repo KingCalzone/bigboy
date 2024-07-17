@@ -1,6 +1,9 @@
 # bigboy
  rgh tool i stopped working on since i made the switch to learning c++ and also doing ps4 tools.
-> [!WARNING]
+> [!CAUTION]
+> THIS STATE OF THE TOOL **PROBABLY** DOESNT SUPPORT XDK, **REMOVE CONSOLE INFORMATION! MOD LOADING (IF INCLUDED) AND SPOOFING MOST LILELY WILL NOT WORK EITHER**.
+
+> [!NOTE]
 > The tool **DOES NOT** have a blue bar at the top, this is because of MaterialSkin in the editor.
 
 ### [Video Of The Tool (CLICK ME)](https://cdn.discordapp.com/attachments/951248942413250653/1263101655033974846/tooool.mp4?ex=66990295&is=6697b115&hm=47cdbdf1286d6ac5ad55708ec7295a36d08637d61f3db0db5a512b77d60dd2de&)
