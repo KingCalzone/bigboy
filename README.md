@@ -1,5 +1,5 @@
-# bigboy
- rgh tool i stopped working on since i made the switch to learning c++ and also doing ps4 tools.
+# bigboy | RGH Multi Tool [unfinished/free source]
+A modded Xbox 360 tool i stopped working on since i made the switch to learning c++ and also doing ps4 tools.
 > [!CAUTION]
 > THIS STATE OF THE TOOL **PROBABLY** DOESNT SUPPORT XDK, **REMOVE CONSOLE INFORMATION! MOD LOADING (IF INCLUDED) AND SPOOFING MOST LILELY WILL NOT WORK EITHER**.
 
