@@ -1,5 +1,5 @@
 # bigboy
- rgh tool i stopped working on
+ rgh tool i stopped working on since i made the switch to learning c++ and also doing ps4 tools
 
 > [!NOTE]
 > What the tool looks like:
