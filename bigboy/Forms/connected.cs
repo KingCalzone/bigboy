@@ -663,12 +663,12 @@ namespace bigboy
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Process.Start("https://www.paypal.me/KingCalzone");
+            Process.Start("");
         }
 
         private void button17_Click(object sender, EventArgs e)
         {
-            Process.Start("https://cash.app/%C2%A3KingCalzone");
+            Process.Start("");
         }
 
         private void sendToConsoleToolStripMenuItem_Click(object sender, EventArgs e)
@@ -801,7 +801,7 @@ namespace bigboy
         {
 
             //Create a Discord client
-            client = new DiscordRpcClient("1092490270366515220"); // bot token :)
+            client = new DiscordRpcClient(""); // bot token :)
 
             //Set the logger
             client.Logger = new ConsoleLogger() { Level = LogLevel.Warning };
@@ -829,11 +829,10 @@ namespace bigboy
                 //State = "Bing Chilling",
                 Assets = new Assets()
                 {
-                    LargeImageKey = "safe",
-                    LargeImageText = "Moo Moo 2",
-                    SmallImageKey = "xb",
-                    SmallImageText = "This was fun",
-
+                    LargeImageKey = "",
+                    LargeImageText = "",
+                    SmallImageKey = "",
+                    SmallImageText = "T"
                 }
             });;;;
         }
